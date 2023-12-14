@@ -1,4 +1,4 @@
-# JAY-ISAAC
+# IVOSIN
 
 This is a solo simple shell project by Ivosin.
 
